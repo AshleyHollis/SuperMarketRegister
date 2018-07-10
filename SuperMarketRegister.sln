@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMarketRegister", "SuperMarketRegister\SuperMarketRegister.csproj", "{3EABBFD9-9747-456E-8CAF-6EF42EDB92BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMarketRegister.Tests", "SuperMarketRegister.Tests\SuperMarketRegister.Tests.csproj", "{F2F4581B-B63E-411F-8E70-87793DEDAE66}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9E9493E8-22AD-47C6-B96A-FA876DB8BAFF}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.md = ReadMe.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EABBFD9-9747-456E-8CAF-6EF42EDB92BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EABBFD9-9747-456E-8CAF-6EF42EDB92BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EABBFD9-9747-456E-8CAF-6EF42EDB92BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EABBFD9-9747-456E-8CAF-6EF42EDB92BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2F4581B-B63E-411F-8E70-87793DEDAE66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2F4581B-B63E-411F-8E70-87793DEDAE66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2F4581B-B63E-411F-8E70-87793DEDAE66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2F4581B-B63E-411F-8E70-87793DEDAE66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC6010BD-1244-461C-8807-7BE1CB70E9B7}
+	EndGlobalSection
+EndGlobal
