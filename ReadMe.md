@@ -6,7 +6,7 @@ This is a C# implementations of a Super Market Register coding puzzle using a .N
 
 Implement the code to make the following test pass. Use your favorite Test Engine.
 
-```
+```csharp
 public void TestPurchase()
 {
 	var receipt = new Receipt();
